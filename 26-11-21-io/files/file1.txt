@@ -1,0 +1,16 @@
+this is first line
+5
+2021-11-30
+Cat [id=101, name=Yosef, weight=0, color=yellow]
+=====prices=====
+price:      62.46
+price:      66.34
+price:      39.39
+price:      10.95
+price:      46.73
+price:      25.84
+price:      94.86
+price:      37.73
+price:      87.36
+price:      96.43
+=====================
